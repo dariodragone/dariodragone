@@ -3,6 +3,7 @@
 
 
 I'm a tech professional and AI enthusiast, learning to code on my spare time : )
+
 Here you will find some projects, studies and automations I'll be working on.
 
 
