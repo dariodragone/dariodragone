@@ -1,13 +1,12 @@
 
-# Olá!
+# Welcome!
 
 
-Bem vindo ao meu perfil! Aqui você irá encontrar meus projetos, estudos e automações.
+I'm a tech professional and AI enthusiast, learning to code on my spare time : )
+Here you will find some projects, studies and automations I'll be working on.
 
-Sou um profissional apaixonado por tecnologia que atua em consultoria de dados e inteligência artificial, com uma pitada de curiosidade sobre programação e desenvolvimento de software.
 
-
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Technologies and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![AI](https://img.shields.io/badge/-AI-05122A?style=flat&logo=openai)
@@ -18,6 +17,6 @@ Sou um profissional apaixonado por tecnologia que atua em consultoria de dados e
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 
-## 🔗 Contatos
+## 🔗 Contacts
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/dario-dragone)
-[![email](https://img.shields.io/badge/EMail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dragone.dario@gmail.com)
+[![email](https://img.shields.io/badge/dragone.dario@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dragone.dario@gmail.com)
